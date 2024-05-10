@@ -1,0 +1,302 @@
+Apr 25, 2022 8:52:28 PM edu.curtin.app.App readFile
+INFO: Maze Size row=0, column=0
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze <init>
+INFO: actualRow = 9, actualColumn = 17
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setBorder
+INFO: Character of gridArray[0][0] = ─
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setGridCh
+INFO: Character of gridArray[0][0] = ┌
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setBorder
+INFO: Character of gridArray[0][1] = ─
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setBorder
+INFO: Character of gridArray[0][2] = ─
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setBorder
+INFO: Character of gridArray[0][3] = ─
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setBorder
+INFO: Character of gridArray[0][4] = ─
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setBorder
+INFO: Character of gridArray[0][5] = ─
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setBorder
+INFO: Character of gridArray[0][6] = ─
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setBorder
+INFO: Character of gridArray[0][7] = ─
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setBorder
+INFO: Character of gridArray[0][8] = ─
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setBorder
+INFO: Character of gridArray[0][9] = ─
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setBorder
+INFO: Character of gridArray[0][10] = ─
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setBorder
+INFO: Character of gridArray[0][11] = ─
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setBorder
+INFO: Character of gridArray[0][12] = ─
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setBorder
+INFO: Character of gridArray[0][13] = ─
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setBorder
+INFO: Character of gridArray[0][14] = ─
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setBorder
+INFO: Character of gridArray[0][15] = ─
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setBorder
+INFO: Character of gridArray[0][16] = ─
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setGridCh
+INFO: Character of gridArray[0][16] = ┐
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setBorder
+INFO: Character of gridArray[1][0] = │
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setBorder
+INFO: Character of gridArray[1][16] = │
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setBorder
+INFO: Character of gridArray[2][0] = │
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setBorder
+INFO: Character of gridArray[2][16] = │
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setBorder
+INFO: Character of gridArray[3][0] = │
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setBorder
+INFO: Character of gridArray[3][16] = │
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setBorder
+INFO: Character of gridArray[4][0] = │
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setBorder
+INFO: Character of gridArray[4][16] = │
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setBorder
+INFO: Character of gridArray[5][0] = │
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setBorder
+INFO: Character of gridArray[5][16] = │
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setBorder
+INFO: Character of gridArray[6][0] = │
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setBorder
+INFO: Character of gridArray[6][16] = │
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setBorder
+INFO: Character of gridArray[7][0] = │
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setBorder
+INFO: Character of gridArray[7][16] = │
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setBorder
+INFO: Character of gridArray[8][0] = ─
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setGridCh
+INFO: Character of gridArray[8][0] = └
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setBorder
+INFO: Character of gridArray[8][1] = ─
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setBorder
+INFO: Character of gridArray[8][2] = ─
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setBorder
+INFO: Character of gridArray[8][3] = ─
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setBorder
+INFO: Character of gridArray[8][4] = ─
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setBorder
+INFO: Character of gridArray[8][5] = ─
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setBorder
+INFO: Character of gridArray[8][6] = ─
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setBorder
+INFO: Character of gridArray[8][7] = ─
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setBorder
+INFO: Character of gridArray[8][8] = ─
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setBorder
+INFO: Character of gridArray[8][9] = ─
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setBorder
+INFO: Character of gridArray[8][10] = ─
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setBorder
+INFO: Character of gridArray[8][11] = ─
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setBorder
+INFO: Character of gridArray[8][12] = ─
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setBorder
+INFO: Character of gridArray[8][13] = ─
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setBorder
+INFO: Character of gridArray[8][14] = ─
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setBorder
+INFO: Character of gridArray[8][15] = ─
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setBorder
+INFO: Character of gridArray[8][16] = ─
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setGridCh
+INFO: Character of gridArray[8][16] = ┘
+Apr 25, 2022 8:52:28 PM edu.curtin.app.App readFile
+INFO: Vertical Wall row=0, column=1
+Apr 25, 2022 8:52:28 PM edu.curtin.app.App readFile
+INFO: Vertical Wall row=0, column=3
+Apr 25, 2022 8:52:28 PM edu.curtin.app.App readFile
+INFO: Vertical Wall row=1, column=3
+Apr 25, 2022 8:52:28 PM edu.curtin.app.App readFile
+INFO: Vertical Wall row=2, column=1
+Apr 25, 2022 8:52:28 PM edu.curtin.app.App readFile
+INFO: Vertical Wall row=3, column=2
+Apr 25, 2022 8:52:28 PM edu.curtin.app.App readFile
+INFO: Horizantal Wall row=1, column=1
+Apr 25, 2022 8:52:28 PM edu.curtin.app.App readFile
+INFO: Horizantal Wall row=2, column=0
+Apr 25, 2022 8:52:28 PM edu.curtin.app.App readFile
+INFO: Horizantal Wall row=2, column=2
+Apr 25, 2022 8:52:28 PM edu.curtin.app.App readFile
+INFO:  Line WH 4 2 is Ignored
+Apr 25, 2022 8:52:28 PM edu.curtin.app.App readFile
+INFO: Message row=0, column=0, message=Good morning! 
+Apr 25, 2022 8:52:28 PM edu.curtin.app.App readFile
+INFO: Message row=0, column=0, message=Which way? 
+Apr 25, 2022 8:52:28 PM edu.curtin.app.App readFile
+INFO: Message row=0, column=3, message=Finished - well done! 
+Apr 25, 2022 8:52:28 PM edu.curtin.app.App readFile
+INFO:  Line DV 1 5 is Ignored
+Apr 25, 2022 8:52:28 PM edu.curtin.app.App readFile
+INFO: Player row=0, column=0
+Apr 25, 2022 8:52:28 PM edu.curtin.app.App readFile
+INFO: Player ActualRow=1, ActualColumn=2
+Apr 25, 2022 8:52:28 PM edu.curtin.app.App readFile
+INFO: Horizantal Door row=2, column=3, color=2
+Apr 25, 2022 8:52:28 PM edu.curtin.app.App readFile
+INFO: Key row=0, column=1, color=2
+Apr 25, 2022 8:52:28 PM edu.curtin.app.App readFile
+INFO:  Line K 2 10 is Ignored
+Apr 25, 2022 8:52:28 PM edu.curtin.app.App readFile
+INFO: Message row=3, column=2, message=You stare blankly at a wall. 
+Apr 25, 2022 8:52:28 PM edu.curtin.app.App readFile
+INFO:  Line DV 1 5 is Ignored
+Apr 25, 2022 8:52:28 PM edu.curtin.app.App readFile
+INFO: Horizantal Wall row=2, column=3
+Apr 25, 2022 8:52:28 PM edu.curtin.app.App readFile
+INFO:  Line S 0 4 is Ignored
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setMazeGrid
+INFO: Empty Grid: ActualRow=1, ActualColumn=1
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setMazeGrid
+INFO: Empty Grid: ActualRow=1, ActualColumn=3
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setMazeGrid
+INFO: Empty Grid: ActualRow=1, ActualColumn=5
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setMazeGrid
+INFO: Empty Grid: ActualRow=1, ActualColumn=7
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setMazeGrid
+INFO: Empty Grid: ActualRow=1, ActualColumn=8
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setMazeGrid
+INFO: Empty Grid: ActualRow=1, ActualColumn=9
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setMazeGrid
+INFO: Empty Grid: ActualRow=1, ActualColumn=10
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setMazeGrid
+INFO: Empty Grid: ActualRow=1, ActualColumn=11
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setMazeGrid
+INFO: Empty Grid: ActualRow=1, ActualColumn=13
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setMazeGrid
+INFO: Empty Grid: ActualRow=1, ActualColumn=15
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setMazeGrid
+INFO: Empty Grid: ActualRow=2, ActualColumn=1
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setMazeGrid
+INFO: Empty Grid: ActualRow=2, ActualColumn=2
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setMazeGrid
+INFO: Empty Grid: ActualRow=2, ActualColumn=3
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setMazeGrid
+INFO: Empty Grid: ActualRow=2, ActualColumn=9
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setMazeGrid
+INFO: Empty Grid: ActualRow=2, ActualColumn=10
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setMazeGrid
+INFO: Empty Grid: ActualRow=2, ActualColumn=11
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setMazeGrid
+INFO: Empty Grid: ActualRow=2, ActualColumn=13
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setMazeGrid
+INFO: Empty Grid: ActualRow=2, ActualColumn=14
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setMazeGrid
+INFO: Empty Grid: ActualRow=2, ActualColumn=15
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setMazeGrid
+INFO: Empty Grid: ActualRow=3, ActualColumn=1
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setMazeGrid
+INFO: Empty Grid: ActualRow=3, ActualColumn=2
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setMazeGrid
+INFO: Empty Grid: ActualRow=3, ActualColumn=3
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setMazeGrid
+INFO: Empty Grid: ActualRow=3, ActualColumn=4
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setMazeGrid
+INFO: Empty Grid: ActualRow=3, ActualColumn=5
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setMazeGrid
+INFO: Empty Grid: ActualRow=3, ActualColumn=6
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setMazeGrid
+INFO: Empty Grid: ActualRow=3, ActualColumn=7
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setMazeGrid
+INFO: Empty Grid: ActualRow=3, ActualColumn=8
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setMazeGrid
+INFO: Empty Grid: ActualRow=3, ActualColumn=9
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setMazeGrid
+INFO: Empty Grid: ActualRow=3, ActualColumn=10
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setMazeGrid
+INFO: Empty Grid: ActualRow=3, ActualColumn=11
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setMazeGrid
+INFO: Empty Grid: ActualRow=3, ActualColumn=13
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setMazeGrid
+INFO: Empty Grid: ActualRow=3, ActualColumn=14
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setMazeGrid
+INFO: Empty Grid: ActualRow=3, ActualColumn=15
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setMazeGrid
+INFO: Empty Grid: ActualRow=4, ActualColumn=5
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setMazeGrid
+INFO: Empty Grid: ActualRow=4, ActualColumn=6
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setMazeGrid
+INFO: Empty Grid: ActualRow=4, ActualColumn=7
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setMazeGrid
+INFO: Empty Grid: ActualRow=5, ActualColumn=1
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setMazeGrid
+INFO: Empty Grid: ActualRow=5, ActualColumn=2
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setMazeGrid
+INFO: Empty Grid: ActualRow=5, ActualColumn=3
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setMazeGrid
+INFO: Empty Grid: ActualRow=5, ActualColumn=5
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setMazeGrid
+INFO: Empty Grid: ActualRow=5, ActualColumn=6
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setMazeGrid
+INFO: Empty Grid: ActualRow=5, ActualColumn=7
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setMazeGrid
+INFO: Empty Grid: ActualRow=5, ActualColumn=8
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setMazeGrid
+INFO: Empty Grid: ActualRow=5, ActualColumn=9
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setMazeGrid
+INFO: Empty Grid: ActualRow=5, ActualColumn=10
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setMazeGrid
+INFO: Empty Grid: ActualRow=5, ActualColumn=11
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setMazeGrid
+INFO: Empty Grid: ActualRow=5, ActualColumn=12
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setMazeGrid
+INFO: Empty Grid: ActualRow=5, ActualColumn=13
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setMazeGrid
+INFO: Empty Grid: ActualRow=5, ActualColumn=14
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setMazeGrid
+INFO: Empty Grid: ActualRow=5, ActualColumn=15
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setMazeGrid
+INFO: Empty Grid: ActualRow=6, ActualColumn=1
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setMazeGrid
+INFO: Empty Grid: ActualRow=6, ActualColumn=2
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setMazeGrid
+INFO: Empty Grid: ActualRow=6, ActualColumn=3
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setMazeGrid
+INFO: Empty Grid: ActualRow=6, ActualColumn=5
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setMazeGrid
+INFO: Empty Grid: ActualRow=6, ActualColumn=6
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setMazeGrid
+INFO: Empty Grid: ActualRow=6, ActualColumn=7
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setMazeGrid
+INFO: Empty Grid: ActualRow=6, ActualColumn=9
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setMazeGrid
+INFO: Empty Grid: ActualRow=6, ActualColumn=10
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setMazeGrid
+INFO: Empty Grid: ActualRow=6, ActualColumn=11
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setMazeGrid
+INFO: Empty Grid: ActualRow=6, ActualColumn=12
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setMazeGrid
+INFO: Empty Grid: ActualRow=6, ActualColumn=13
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setMazeGrid
+INFO: Empty Grid: ActualRow=6, ActualColumn=14
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setMazeGrid
+INFO: Empty Grid: ActualRow=6, ActualColumn=15
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setMazeGrid
+INFO: Empty Grid: ActualRow=7, ActualColumn=1
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setMazeGrid
+INFO: Empty Grid: ActualRow=7, ActualColumn=2
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setMazeGrid
+INFO: Empty Grid: ActualRow=7, ActualColumn=3
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setMazeGrid
+INFO: Empty Grid: ActualRow=7, ActualColumn=4
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setMazeGrid
+INFO: Empty Grid: ActualRow=7, ActualColumn=5
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setMazeGrid
+INFO: Empty Grid: ActualRow=7, ActualColumn=6
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setMazeGrid
+INFO: Empty Grid: ActualRow=7, ActualColumn=7
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setMazeGrid
+INFO: Empty Grid: ActualRow=7, ActualColumn=9
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setMazeGrid
+INFO: Empty Grid: ActualRow=7, ActualColumn=11
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setMazeGrid
+INFO: Empty Grid: ActualRow=7, ActualColumn=12
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setMazeGrid
+INFO: Empty Grid: ActualRow=7, ActualColumn=13
+Apr 25, 2022 8:52:28 PM edu.curtin.app.Maze setMazeGrid
+INFO: Empty Grid: ActualRow=7, ActualColumn=15
